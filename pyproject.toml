@@ -6,12 +6,14 @@ authors = ["KyryloChalov <ks7977166@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
-numpy = "^1.26.4"
+python = "^3.10"
+numpy = "^1.25.2"
 jupyter = "^1.0.0"
-matplotlib = "^3.8.4"
-seaborn = "^0.13.2"
+matplotlib = "^3.7.1"
+seaborn = "^0.13.1"
 lxml = "^5.2.1"
+scikit-learn = "1.2.2"
+scipy = "^1.11.4"
 
 
 [build-system]
