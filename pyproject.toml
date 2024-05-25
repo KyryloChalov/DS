@@ -14,6 +14,8 @@ seaborn = "^0.13.1"
 lxml = "^5.2.1"
 scikit-learn = "^1.2.2"
 scipy = "^1.11.4"
+tqdm = "^4.66.4"
+colorspacious = "^1.1.2"
 
 
 [build-system]

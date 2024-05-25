@@ -1,6 +1,6 @@
 /poetry.lock
 *.txt
 *.xlsx
-*copy.*
+*copy*.*
 */data
 __pycache__
