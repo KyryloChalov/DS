@@ -16,6 +16,7 @@ scikit-learn = "^1.2.2"
 scipy = "^1.11.4"
 tqdm = "^4.66.4"
 colorspacious = "^1.1.2"
+mlxtend = "^0.23.1"
 
 
 [build-system]
