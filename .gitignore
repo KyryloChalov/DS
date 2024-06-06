@@ -6,3 +6,6 @@
 __pycache__
 */ml-100k
 surprise*
+.vs*/
+.vs*/*.*
+*/*.*
