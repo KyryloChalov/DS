@@ -2,6 +2,7 @@
 *.txt
 *.xlsx
 *copy*.*
+*train*.*
 */data
 __pycache__
 */ml-100k

@@ -21,6 +21,7 @@ surprise = "^0.1"
 tensorflow = "^2.16.1"
 keras = "^3.3.3"
 tf-keras = "^2.16.0"
+pydot = "^2.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
