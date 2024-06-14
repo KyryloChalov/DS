@@ -44,3 +44,35 @@ Cyan        \033[96m	\033[106m
 White       \033[97m	\033[107m
 
 """
+
+
+colors = [
+    "skyblue",
+    "lightgreen",
+    "lightcoral",
+    "orange",
+    "pink",
+    "lightblue",
+    "yellow",
+    "purple",
+    "cyan",
+    "lightgray",
+    "magenta",
+    "lime",
+    "teal",
+    "lavender",
+    "salmon",
+    "gold",
+    "brown",
+    "olive",
+    "peru",
+    "aquamarine",
+    "lightpink",
+    "plum",
+    "khaki",
+    "orchid",
+    "tan",
+    "mediumaquamarine",
+    "orangered",
+    "royalblue",
+]

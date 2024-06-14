@@ -2,6 +2,7 @@
 *.txt
 *.xlsx
 *copy*.*
+*new*.*
 *train*.*
 */data
 __pycache__
@@ -9,4 +10,5 @@ __pycache__
 surprise*
 .vs*/
 .vs*/*.*
-*/*.*
+*.keras
+# */*.*
