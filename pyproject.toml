@@ -22,6 +22,9 @@ tensorflow = "^2.16.1"
 keras = "^3.3.3"
 tf-keras = "^2.16.0"
 pydot = "^2.0.0"
+icecream = "^2.1.3"
+spacy = "^3.7.5"
+nltk = "^3.8.1"
 
 
 [tool.poetry.group.dev.dependencies]
