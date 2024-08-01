@@ -13,3 +13,5 @@ surprise*
 *.keras
 # */*.*
 aclImdb*
+.mypy_cache
+DS.code*
